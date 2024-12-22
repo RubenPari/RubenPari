@@ -1,10 +1,10 @@
-# Hi there, I'm RubenPari! 👋
+# Hi, I'm RubenPari! 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubenPari&show_icons=true&theme=radical)
 
 ## About Me
 
-I am a passionate software developer with a keen interest in the back-end world, I love building REST-API and everything around them. I enjoy learning new technologies and continuously improving my skills. Here are a few things about me:
+I am a passionate software developer interested in the back-end world, I love building REST-API and everything around them. I enjoy learning new technologies and continuously improving my skills. Here are a few things about me:
 
 - 🔭 I’m currently working on <null>
 - 🌱 I’m currently learning back-end technologies
@@ -26,7 +26,7 @@ Here are some of the technologies and tools I have experience with:
 
 ## Recent activities
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RubenPari&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RubenPari&theme=react-dark)
 
 ## Connect with Me
 
