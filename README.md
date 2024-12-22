@@ -24,9 +24,9 @@ Here are some of the technologies and tools I have experience with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenPari&layout=compact&theme=radical)
 
-## Recent activities
+## Visitor
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RubenPari&theme=react-dark)
+![Visitor Count](https://count.getloli.com/get/@RubenPari.github.readme)
 
 ## Connect with Me
 
